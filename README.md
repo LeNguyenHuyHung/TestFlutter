@@ -1,4 +1,4 @@
-# flutter_realtime_detection
+# realtime detection
 
 Real-time object detection in Flutter using [camera] and plugins. 
 
